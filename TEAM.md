@@ -1,6 +1,6 @@
 # Le persone di Officina Digitale
 
-Nove persone, nessuna reale. Servono a rendere concrete le decisioni sugli accessi: ogni volta che il percorso ti chiede "che permesso daresti a questa persona?", la risposta si trova qui.
+Dieci persone: nove inventate e una reale, uomoaltovalore, alla Direzione. Servono a rendere concrete le decisioni sugli accessi: ogni volta che il percorso ti chiede "che permesso daresti a questa persona?", la risposta si trova qui.
 
 La colonna **serve davvero** è la sola che conta quando si assegnano i permessi. Il ruolo aziendale non implica il permesso tecnico: il capo dell'azienda non ha bisogno di poter scrivere nel codice, il commerciale sì ha bisogno di poter leggere le segnalazioni dei clienti.
 
