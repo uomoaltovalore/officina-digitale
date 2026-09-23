@@ -1,0 +1,10 @@
+# Configurazione con i valori veri: resta sul computer, mai nel repository.
+config.js
+.env
+.env.*
+
+# Dipendenze
+node_modules/
+
+# Sistema
+.DS_Store

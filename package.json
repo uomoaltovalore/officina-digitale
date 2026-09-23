@@ -1,0 +1,10 @@
+{
+  "name": "officina-digitale",
+  "version": "1.0.0",
+  "description": "Repository di partenza del percorso GitHub da zero a cento",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

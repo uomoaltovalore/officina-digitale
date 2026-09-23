@@ -1,0 +1,27 @@
+name: Richiesta
+description: Qualcosa che vorremmo aggiungere o cambiare
+title: "[Richiesta] "
+labels: ["richiesta"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Il problema di partenza
+      description: Non la soluzione che hai in mente, ma il problema che vuoi risolvere.
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: La proposta
+  - type: dropdown
+    id: chi-la-chiede
+    attributes:
+      label: Chi la chiede
+      options:
+        - Un cliente pagante
+        - Piu' clienti paganti
+        - Il team interno
+        - Un cliente potenziale
+    validations:
+      required: true
