@@ -30,7 +30,7 @@ function calcolaTotale(righe, percentualeSconto = 0) {
   const sconto = calcolaSconto(imponibile, percentualeSconto);
 
   // Il difetto e' qui: lo sconto viene calcolato e poi ignorato.
-  const imponibileScontato = imponibile;
+  const imponibileScontato = imponibile - sconto;
 
   const iva = imponibileScontato * IVA;
 
