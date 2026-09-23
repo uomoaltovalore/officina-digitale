@@ -1,5 +1,5 @@
 codice,descrizione,prezzo,valuta
-CAN-BASE,Canone mensile base,5,EUR
+CAN-BASE,Canone mensile base,50,EUR
 CAN-PRO,Canone mensile professionale,90,EUR
 SETUP,Configurazione iniziale,400,EUR
 FORM-1,Formazione mezza giornata,350,EUR
